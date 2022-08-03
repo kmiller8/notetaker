@@ -1,17 +1,22 @@
-# Challenge Eleven - Note Taker
+# Note Taker
 
-## Description
-The purpose of this project was to create an application that allows users to organize their thoughts and keep track of tasks by writing and saving notes. The application also includes a delete function in case the user wants to delete notes that are no longer needed.
+## Purpose
+Note Taker application built with html and css and controlled with Express
 
-## Usage
-Please use this project to write and save notes to help you stay organized.
+## Built With
+* HTML
+* CSS
+* Javascript
+* Express.js
 
 ## Link To Deployed Application
 https://aqueous-garden-24606.herokuapp.com/
 
 
-## Credit 
+## Contribution 
 Made with ❤️ by Kate Miller
+used https://github.com/JBGinger/ChallengeEleven.NoteTaker for delete function
+
 
 
   
